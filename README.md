@@ -12,10 +12,9 @@ Full-Stack Architecture: Separate client and server directories for clean organi
 Secure API Handling: Uses environment variables (.env) on the server to prevent API key exposure.
 
 User Authentication Flow: Includes conceptual routes for SignIn, Chatbot, and a protected MyProfile component using React Router.
-
+<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/3eb1ca61-4372-4467-8113-24304eb2dca4" />
 <img width="1920" height="1080" alt="Screenshot (200)" src="https://github.com/user-attachments/assets/62917bbd-a4af-4133-aaea-a948034c0fa1" />
 <img width="1920" height="1080" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/29e199ba-1ba0-48ff-bd68-c8f086fa2d12" />
-<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/3eb1ca61-4372-4467-8113-24304eb2dca4" />
 
 
 **🛠️ Technology Stack**
@@ -46,9 +45,6 @@ Connecting to the Gemini API.
 <img width="1920" height="1080" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/60ba6f18-0a30-4ca9-9be4-eee0f0b8231d" />
 
 <img width="1920" height="1080" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/97356351-18d2-47d5-ba4e-7ea9e4bc684a" />
-
-<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/5107bd6c-a708-4a35-849f-ad292e4a0215" />
-
 
 **🚀 Getting Started**
 Follow these steps to get your chatbot system running locally.
