@@ -1,10 +1,13 @@
 **💬 Gemini Chatbot System**
+
+
 A full-stack, responsive chat application powered by the Gemini API for intelligent conversational responses.
 
 This system is divided into two parts: a React frontend for the user interface and a Node.js/Express backend to securely manage the API interaction and secrets.
 <img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/588a86f7-6b25-4a36-adc3-fd9ec5e7cac2" />
 <img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/a1d05871-68cd-4797-886a-1261a2bdd29e" />
 **✨ Features**
+
 Gemini Powered Responses: Utilizes the @google/genai SDK and the gemini-2.5-flash model for fast, relevant, and engaging chat.
 
 Full-Stack Architecture: Separate client and server directories for clean organization.
@@ -75,6 +78,10 @@ GEMINI_API_KEY="YOUR_GEMINI_API_KEY_HERE"
 Start the server, which will run on http://localhost:3001:
 
 node server.js
+
+<img width="1920" height="1080" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/4e6e91dd-e657-46f4-a173-5a4d45fcd7ca" />
+
+
 # Server running securely on http://localhost:3001
 
 2. Frontend Setup (CHAT_BOT_CLIENT)
